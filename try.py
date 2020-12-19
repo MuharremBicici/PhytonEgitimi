@@ -1,0 +1,5 @@
+
+print ("merhaba")  # ilk uygulama
+
+
+

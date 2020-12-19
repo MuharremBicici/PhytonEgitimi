@@ -1,0 +1,15 @@
+isim=input("adiniz: ")
+dogumyili=input("dogumyiliniz: ")
+dogumyili=int(dogumyili) #input komutundan aldığımız değer string olduğu için integer değere çevirdik.
+yas=2020-dogumyili
+okul=input("okulunuz: ")
+okulNo=input("okulNo: ")
+memleket=input("memleketiniz: ")
+tc=input("kimlikNo: ")
+print("Adiniz",isim)
+print("Yasiniz",yas)
+print("okulunuz",okul)
+print("numaraniz",okulNo)
+print("memleket",memleket)
+print("kimlikno",tc)
+print("tesekkurler kaydınız alinmistir.")
